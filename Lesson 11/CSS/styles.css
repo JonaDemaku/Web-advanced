@@ -1,4 +1,34 @@
 p {
-    color: red;
+    color: blue;
     font-size: 24px;
+    background-color: salmon;
+}
+
+p {
+/* margin-top: 100px;
+margin-bottom: 100px;
+margin-left: 120px;
+margin-right: 60px; 
+margin: 100px 60px 100px 120px ; 
+margin: 100px 50px 70px; 
+margin: 100px 70px; */
+margin: 39px
+}
+
+div{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
+div {
+/* padding-top: 100px;
+padding-bottom: 100px;
+padding-left: 120px;
+padding-right: 60px; 
+padding: 100px 50px 100px;
+padding: 100px 20px;
+padding: 200px;*/
+padding: 100px 60px 100px 120px ;
+height: 100px;
+width: 50%;
 }
